@@ -31,7 +31,7 @@ def main():
     cross_prod=np.cross(v_1,v_2)
     print("the cross product of the first and second vectors is:"+str(cross_prod))
 
-
+    #git
 
 
 main()
